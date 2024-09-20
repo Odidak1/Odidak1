@@ -1,4 +1,5 @@
-# Hi there, I'm Odidak! 👋
+# Hi there, I'm Odidak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20 />
+[![Discord Presence](https://lanyard.cnrad.dev/api/792802587543076874)](https://discord.com/users/792802587543076874)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odidak1&show_icons=true&theme=radical)
