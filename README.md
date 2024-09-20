@@ -1,4 +1,4 @@
-q# Hi there, I'm Odidak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20 />
+# Hi there, I'm Odidak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=20 />
 [![Discord Presence](https://lanyard.cnrad.dev/api/1105009452622544918)](https://discord.com/users/1105009452622544918)
 📫 Reach me on [Instagram](https://www.instagram.com/_radit.2k8?igsh=NTc4MTIwNjQ2YQ==)
 
